@@ -13,3 +13,5 @@ Aa 属兰花的生态适应性极强，它们能够在接近雪线的高山草�
 	
 参考文献：
 Xenia orchidacea : Beiträge zur Kenntniss der Orchideen,1858
+
+![原始描述](https://raw.githubusercontent.com/Heterotrophic-plants/Autotrophic_plants/main/images/Aa.sp.jpg)
